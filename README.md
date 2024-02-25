@@ -23,7 +23,7 @@ Como Usar
 
 Configuração do Ambiente:
 
-Instale as dependências necessárias utilizando o comando: pip install -r requirements.txt.
+Instale as dependências necessárias utilizando o comando: pip install mysql-connector-python dotenv pyotp
 Configure as variáveis de ambiente no arquivo .env para conexão com o banco de dados e chaves de API.
 
 Execução do Código:
