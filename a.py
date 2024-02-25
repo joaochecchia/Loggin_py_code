@@ -1,7 +1,7 @@
 import mysql.connector
 from hashlib import md5
 from dotenv import load_dotenv
-from b import enviar_email  # Assuming 'enviar_email' is defined in 'b' module
+from b import enviar_email
 import time
 import pyotp
 import os
